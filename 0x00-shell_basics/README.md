@@ -1,1 +1,1 @@
-Shell basics project directory
+a script that alows manipulation of file permissions
