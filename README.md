@@ -1,1 +1,1 @@
-A repository for shell project
+read me
